@@ -20,6 +20,11 @@ button{
     background-color: #444444;
     border-radius: 10px;
 }
+#primary .title{
+    color: white;
+    text-align: center;
+    padding-bottom: 40px;
+}
 #primary .push{
     display: flex;
     padding: 0px 3px;
